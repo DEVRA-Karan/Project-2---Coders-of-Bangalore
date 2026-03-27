@@ -97,7 +97,7 @@ Coders-of-Bangalore/
 1. Clone the repository:
 
 ```id="o1f9c8"
-git clone https://github.com/Karan081980/Project-2---Coders-of-Bangalore.git
+git clone https://github.com/DEVRA-Karan/Project-2---Coders-of-Bangalore?tab=readme-ov-file
 ```
 
 2. Open the notebook:
@@ -140,8 +140,7 @@ Contributions are welcome! Feel free to fork and improve.
 
 ## 📬 Contact
 
-GitHub: https://github.com/Karan081980
-
+GitHub: https://github.com/DEVRA-Karan
 ---
 
 ## ⭐ Support
