@@ -1,4 +1,4 @@
-# 📊 Coders of Bangalore – Instagram Data Analysis Project
+# 📊 Coders of Bangalore – Instagram Data Science Project
 
 ## 🚀 Project Overview
 
